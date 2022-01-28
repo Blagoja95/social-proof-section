@@ -125,7 +125,7 @@ main::after{
 
 .rating-stars{
     width: 100px;
-    background-image: url('./images/icon-star.svg');
+    background-image: url('../images/icon-star.svg');
     background-repeat: space no-repeat;
 }
 
